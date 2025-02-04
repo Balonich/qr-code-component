@@ -29,7 +29,7 @@ Small screen:
 ### Links
 
 - Solution URL: [Github](https://github.com/Balonich/qr-code-component)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://qr-code-component-balonichs-projects.vercel.app/)
 
 ## My process
 
